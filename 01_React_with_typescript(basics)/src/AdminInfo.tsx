@@ -1,4 +1,4 @@
-import type  { AdminTypes } from "./types"
+import type  { AdminTypes } from "./user.types"
 
 
 type AdminInfoProps = {

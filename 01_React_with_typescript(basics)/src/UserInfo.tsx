@@ -1,4 +1,4 @@
-import type  { UserTypes } from "./types"
+import type  { UserTypes } from "./user.types"
 
 type UserInfoProp = {
   user:UserTypes
